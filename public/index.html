@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Shopzo — Home</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<nav>
+  <ul class="navbar">
+    <li><a href="/">Home</a></li>
+    <li><a href="/menswear">Menswear</a></li>
+    <li><a href="/womenwear">Womenwear</a></li>
+    <li><a href="/beauty">Beauty</a></li>
+    <li><a href="/footwear">Footwear</a></li>
+    <li><a href="/baby-products">Baby Products</a></li>
+  </ul>
+</nav>
+
+<body>
+  <header class="site-header">
+    <a href="/" class="logo">Shopzo</a>
+    <nav>
+      <a href="/cart.html" class="cart-link">Cart (<span id="cart-count">0</span>)</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1>Featured Products</h1>
+    <section id="product-grid" class="grid"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Shopzo</p>
+  </footer>
+
+  <script src="/js/app.js"></script>
+  <script src="/js/home.js"></script>
+</body>
+</html>
