@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Formal Shirt",
+        "price": 10999,
+        "stock": 50,
+        "image": "/images/shirt.jpg",
+        "description": "This versatile shirt is designed for both comfort and style, crafted from soft, breathable cotton that feels great all day long. Its modern fit and neat stitching give it a polished look, making it ideal for workdays, weekends, and everything in between. Available in multiple colors and sizes, it pairs effortlessly with jeans or trousers, adding a touch of sophistication to any outfit. Easy to care for and built to last, it’s a wardrobe essential that never goes out of fashion."
+    },
+    {
+        "id": 2,
+        "name": "Kurta",
+        "price": 2999,
+        "stock": 100,
+        "image": "/images/kurta.jpg",
+        "description": "The men's kurta is the perfect fusion of tradition and modern style—crafted to offer effortless elegance for any occasion. With its straight silhouette, buttoned placket, and comfortable fabric, it allows for both ease and grace whether worn at festive gatherings or casual outings. Rich embroidery, subtle patterns, and vibrant hues add flair, while its breathable texture ensures all-day comfort. Pair it with churidar or denim for a timeless yet contemporary look that speaks of heritage with confidence."
+    },
+    {
+        "id": 3,
+        "name": "Formal Suit",
+        "price": 3999,
+        "stock": 50,
+        "image": "/images/formalsuit.jpg",
+        "description": "The men's three-piece formal suit exudes timeless sophistication and polish—making it the quintessential ensemble for high-stakes events or stylish professional settings. Comprising a tailored jacket, matching trousers, and a coordinating waistcoat, this suit blends structure with elegance, allowing for versatile styling that can be dressed up with a tie or worn with subtle flair. Luxurious fabrics, sharp lapels, and precise tailoring elevate its silhouette, while the waistcoat adds depth and dimension for a truly refined look. Perfect for weddings, business gatherings, or upscale evenings, the three-piece suit is a confident expression of classic masculinity."
+    },
+    {
+        "id": 4,
+        "name": "Polo T-Shirt",
+        "price": 6999,
+        "stock": 50,
+        "image": "/images/tshirt.jpg",
+        "description": "The men's polo t-shirt strikes the ideal balance between laid-back comfort and understated sophistication. Known for its short collar, buttoned neckline, and sporty yet refined silhouette, it’s a go-to piece for both casual Fridays and weekend outings. Crafted from breathable fabrics like cotton or pique knit, it offers ease of movement while maintaining a polished vibe. Whether paired with chinos for a smart-casual look or shorts for relaxed flair, the polo shirt remains a timeless staple in every man's wardrobe."
+    },
+    {
+        "id": 5,
+        "name": "Womens Ethnic Gown",
+        "price": 2999,
+        "stock": 20,
+        "image": "/images/gown.jpg",
+        "description": "A women’s ethnic gown is a graceful blend of traditional aesthetics and modern charm, designed to make a regal statement at festive and formal occasions. Flowing silhouettes in luxurious fabrics like silk, chiffon, or georgette are often adorned with intricate embroidery, sequins, or zari work that reflect cultural artistry. With features like fitted bodices, flared hemlines, and dramatic sleeves, these gowns flatter every figure while evoking elegance and grandeur. Perfect for weddings, celebrations, or cultural events, an ethnic gown effortlessly captures timeless beauty with a contemporary flair."
+    },
+    {
+        "id": 6,
+        "name": "Silk Saree",
+        "price": 4999,
+        "stock": 60,
+        "image": "/images/saree.jpg",
+        "description": "A silk saree is a timeless emblem of elegance, revered for its luxurious sheen and graceful drape. Woven from fine silk threads and often adorned with intricate motifs, zari borders, and rich color palettes, it reflects centuries of craftsmanship and cultural heritage. Whether it's a vibrant Kanjivaram from Tamil Nadu or a delicate Banarasi from Varanasi, each silk saree tells a story of artistry and tradition. Ideal for weddings, festivals, or formal occasions, it transforms any moment into something regal and unforgettable."
+    },
+    {
+        "id": 7,
+        "name": "Womens Kurta Set",
+        "price": 6999,
+        "stock": 50,
+        "image": "/images/kurtaset.jpg",
+        "description": "A women’s kurta set offers the perfect blend of comfort and style, making it a versatile choice for everyday wear and festive occasions alike. Typically comprising a coordinated kurta, bottoms like palazzos, leggings, or trousers, and often a matching dupatta, this ensemble brings together elegance and ease. Whether adorned with minimal prints for a sleek, modern vibe or featuring intricate embroidery for a more traditional look, kurta sets cater to diverse fashion sensibilities. Crafted in breathable fabrics like cotton, silk, or georgette, they allow for graceful movement and all-day wearability while effortlessly reflecting cultural charm."
+    },
+    {
+        "id": 8,
+        "name": "Womens Ball Gown",
+        "price": 8999,
+        "stock": 50,
+        "image": "/images/ballgown.jpg",
+        "description": "A women's ball gown is the epitome of opulence and drama, crafted to turn heads at grand occasions like galas, formal weddings, or red carpet events. Characterized by a fitted bodice and voluminous skirt, often layered with tulle, organza, or satin, it creates a fairytale silhouette that radiates elegance and poise. Embellishments like intricate lace, sequins, and beadwork add dazzling detail, while off-shoulder, sweetheart, or halter necklines bring a touch of romantic allure. Whether in classic hues or bold shades, a ball gown captures the magic of timeless style and unapologetic glamour."
+    },
+    {
+        "id": 9,
+        "name": "Laptop Bag",
+        "price": 1099,
+        "stock": 50,
+        "image": "/images/bag.jpg",
+        "description": "A laptop bag is a modern essential for professionals, students, and tech-savvy travelers who value both style and functionality. Designed to securely cradle your device, these bags often feature padded compartments, water-resistant materials, and multiple pockets for organizing chargers, notebooks, and personal items. Whether in sleek leather for a corporate edge or in rugged canvas for casual durability, a good laptop bag offers comfort with adjustable straps and easy portability. It’s more than just a carryall—it’s a smart, protective companion for your digital lifestyle."
+    },
+    {
+        "id": 10,
+        "name": "Mens Watch",
+        "price": 1299,
+        "stock": 50,
+        "image": "/images/watch1.jpg",
+        "description": "A men's watch is more than just a timekeeping device—it's a reflection of personal style, precision, and sophistication. From classic analog designs with leather straps to cutting-edge smartwatches packed with functionality, watches make a bold statement about one's taste and lifestyle. Stainless steel cases, chronograph dials, and minimalist aesthetics cater to both formal and casual looks, seamlessly complementing any outfit. Whether worn for practicality or as a fashion accessory, a well-chosen watch speaks of punctuality, professionalism, and timeless class."
+    },
+    {
+        "id": 11,
+        "name": "Womens Watch",
+        "price": 999,
+        "stock": 50,
+        "image": "/images/watch2.jpg",
+        "description": "A women’s watch is a graceful fusion of utility and fashion, embodying both elegance and expression. Whether delicately adorned with sparkling accents or styled with minimalist charm, each timepiece reflects personal taste—be it classic sophistication, sporty vibrancy, or modern chic. Crafted with slender straps in leather, metal, or ceramic, and featuring refined dials, these watches complement everything from office wear to evening ensembles. More than just a tool for telling time, a women’s watch is a statement accessory that speaks of confidence, punctuality, and timeless flair."
+    },
+    {
+        "id": 12,
+        "name": "Womens Formal Bag",
+        "price": 2999,
+        "stock": 50,
+        "image": "/images/formalbag.jpg",
+        "description": "A women’s formal bag is the ultimate blend of elegance and functionality, designed to complement refined attire at professional or upscale events. Whether it's a structured handbag, sleek clutch, or minimalist tote, these bags often feature premium materials like leather, suede, or satin, and are adorned with subtle accents such as metal hardware or embossed detailing. With compartments tailored to essentials like phones, cards, and cosmetics, they balance style with practicality. Graceful in silhouette and rich in finish, a formal bag adds the finishing touch to business ensembles, cocktail dresses, or evening gowns."
+    }
+]
